@@ -1,6 +1,8 @@
 ![](K-rm-logo.gif)
 
-## A real-time visualization tool for you Kafka cluster.
+# Kafka Lens
+
+A visualization tool for your Kafka cluster. Inspect your topics, partitions, and consumption of messages in real-time.
 
 ![](kl-g.gif)
 
