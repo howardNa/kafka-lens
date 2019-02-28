@@ -1,6 +1,6 @@
 ![](K-rm-logo.gif)
 
-A real-time visualization tool for you Kafka cluster.
+## A real-time visualization tool for you Kafka cluster.
 
 ![](kl-g.gif)
 
